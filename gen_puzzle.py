@@ -1,7 +1,7 @@
 from sys import argv
 from random import randrange
 
-n = int(argv[2])
+n = int(argv[3])
 b = []
 x = n-1
 y = n-1
